@@ -77,7 +77,7 @@
     "mobx-state-tree": "^1.4.0",
     "moment": "^2.22.1",
     "morgan": "^1.9.1",
-    "next": "^6.0.3",
+    "next": "^9.3.2",
     "next-compose-plugins": "^1.0.3",
     "next-images": "^0.10.1",
     "next-optimized-images": "^1.4.1",
